@@ -2,6 +2,10 @@ lockfileVersion: 5.4
 
 specifiers:
   nodemon: ^2.0.19
+  uuid: ^8.3.2
+
+dependencies:
+  uuid: 8.3.2
 
 devDependencies:
   nodemon: 2.0.19
@@ -226,3 +230,8 @@ packages:
   /undefsafe/2.0.5:
     resolution: {integrity: sha512-WxONCrssBM8TSPRqN5EmsjVrsv4A8X12J4ArBiiayv3DyyG3ZlIg6yysuuSYdZsVz3TKcTg2fd//Ujd4CHV1iA==}
     dev: true
+
+  /uuid/8.3.2:
+    resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==}
+    hasBin: true
+    dev: false
