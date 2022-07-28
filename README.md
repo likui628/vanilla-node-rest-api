@@ -3,6 +3,8 @@
 
 ## api
 
+[postman collection file](./vanilla-node-rest-api.postman_collection.json)
+
 ```
 GET      /api/products
 POST     /api/products
